@@ -1,0 +1,20 @@
+.container {
+  border-radius: 8px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px gold;
+}
+
+.country {
+  border-radius: 8px 8px 0 0;
+  border-bottom: 1px solid black;
+  padding: 0.5em;
+  background-color: #EAE7D7;
+}
+
+.count {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5em;
+  margin: auto;
+}
